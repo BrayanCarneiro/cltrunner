@@ -1,0 +1,4 @@
+CRIANDO O CLT RUNNER
+
+1> criar tela de historia
+como vou fazer : Quero colocar um obj pular que basicamente so funciona na rm_histori e ele pula o sprite index
